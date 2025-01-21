@@ -14,6 +14,7 @@ build/
 .cache-loader/
 temp/
 tmp/
+db/*.sqlite
 
 coverage/
 *.lcov
