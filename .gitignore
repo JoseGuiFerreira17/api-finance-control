@@ -13,6 +13,7 @@ build/
 .cache/
 .cache-loader/
 temp/
+tmp/
 
 coverage/
 *.lcov
