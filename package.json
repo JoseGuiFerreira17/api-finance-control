@@ -1,5 +1,5 @@
 {
-  "name": "api-rest",
+  "name": "api-finance-control",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
     "lint": "eslint 'src/**/*.{ts,js}'"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "José Guilherme Mouta Ferreira",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@eslint/js": "^9.18.0",
